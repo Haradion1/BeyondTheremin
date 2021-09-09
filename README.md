@@ -9,7 +9,7 @@ FEATURES:
     * Grabstrength* --> FX Volume
   ~ Right hand
     * Horizontal axis --> volume control
-    * Grabstrength* --> lowpass filter cutoff control
+    * Grabstrength --> lowpass filter cutoff control
     
 * 'Grabstrength' is the term Leap Motion uses to describe how far the fingers of each hand are stretched out.
 
