@@ -5,8 +5,8 @@ Beyond Theremin uses a Leap Motion device to control a synthisizer with hand mov
 
 FEATURES:
 * Left Hand
-  - Vertical axis
-  - Grabstrength
+  - Vertical axis pitch control
+  - Grabstrength FX control
 * Right Hand
   - Horizontal axis volume control
   - Grabstrength lowpass cutoff control
