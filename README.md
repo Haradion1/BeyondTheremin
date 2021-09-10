@@ -15,7 +15,7 @@ FEATURES:
 
 CREDITS:
 
-Beyond Theremin relies on the leapmotion Max external by xyz. In order to use LeapMotion on your device, the LeapMotion software (Orion) is required. (Different software versions seem to have compatibility issues with Max 8, as it would not allow Max to read any data from the Leap Motion controler, even though it worked fine in the software.)
+Beyond Theremin relies on the Leapmotion for Max external by Jules Françoise. In order to use LeapMotion on your device, the LeapMotion software (Orion) is required. (Different software versions seem to have compatibility issues with Max 8, as it would not allow Max to read any data from the Leap Motion controler, even though it worked fine in the software.)
 
 
 DEV INFO:
