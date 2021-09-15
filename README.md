@@ -3,7 +3,7 @@ Semester project for the subject IAS (interactive audio systems) at the FH St. P
 
 Beyond Theremin uses a Leap Motion device to control a synthisizer with hand movement in MAX 8/MAX for Live.
 
-VERSION INFO: LeapMotion hand data is now accessible.
+VERSION INFO: LeapMotion hand data is now scaled properly. Basic functionality is working. Yay.
 
 CREDITS:
 
