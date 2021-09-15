@@ -5,6 +5,8 @@ Beyond Theremin uses a Leap Motion device to control a synthisizer with hand mov
 
 VERSION INFO: Final version.
 
+EXPLANATION VIDEO: https://fhstp-my.sharepoint.com/:v:/g/personal/mt191004_fhstp_ac_at/ERcdOi40NrpHkKl3ossY1QcBZak7uF701ZqJgl2AX_tmFQ?e=CZvtJm
+
 FEATURES:
 * Left Hand
   - Vertical axis pitch control
